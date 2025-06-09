@@ -23,7 +23,7 @@ h2 {style
     margin-top: 30px;
 }
 
-p {
+p, h2 {
     text-align: justify;
     margin: 20px auto;
     max-width: 1000px;
